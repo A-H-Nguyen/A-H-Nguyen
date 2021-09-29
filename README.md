@@ -1,6 +1,6 @@
 ## Hello there! My name is Andrew Nguyen
 
-~ I am an Undergraduate Electrical and Computer Engineer studying at Northeastern University
+I am an Undergraduate Electrical and Computer Engineer studying at Northeastern University
 
 ## Programming experiance:
 I have used C++, C#, MATLAB, Python, and GDScript, and have dabbled in BASH.
