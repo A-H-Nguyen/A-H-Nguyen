@@ -8,6 +8,6 @@ I am most comfortable in Python, MATLAB, and C++.
 I have experience writing documents in LaTex, as well as experience using the Linux/Unix terminal.
 
 ## Other interests:
-Outside of my major, I am very interested in game design, and am planning to pursue it as a minor. 
+Outside of my major, I am very interested in game design (I have been on the fence on whether or not I wish to pursue it as a minor for quite a while now). 
 I have made some small games in Unity and Godot, and am planning to make more in the future.
 I view games as an artistic endeavor in spirit, and to that end I would love to create music and art for the games I plan on creating eventually
