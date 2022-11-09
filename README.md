@@ -1,13 +1,16 @@
-## Hello there! My name is Andrew Nguyen
+## About Me
 
-I am an Undergraduate Electrical and Computer Engineer studying at Northeastern University
+I am an Undergraduate Electrical and Computer Engineer with a minor in Game Design.
+I am studying at Northeastern University in Boston, class of 2024.
+As a freshman back in 2019, I attended University of Massachusetts Lowell, and transfered to NEU for my second year onwards.
 
 ## Programming experiance:
-I have used C++, C#, MATLAB, Python, and GDScript, and have dabbled in BASH.
-I am most comfortable in Python, MATLAB, and C++.
-I have experience writing documents in LaTex, as well as experience using the Linux/Unix terminal.
+I most familiar with C, C++, and Python.
+
+I also have experience with Golang, Matlab, BASH, and Verilog.
+
+I also have a deep love (obsession?) with LaTeX typesetting.
 
 ## Other interests:
-Outside of my major, I am very interested in game design (I have been on the fence on whether or not I wish to pursue it as a minor for quite a while now). 
 I have made some small games in Unity and Godot, and am planning to make more in the future.
 I view games as an artistic endeavor in spirit, and to that end I would love to create music and art for the games I plan on creating eventually
