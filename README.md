@@ -1,3 +1,8 @@
+## This is completely out of date
+I'll update it eventually. Well, first I need to actually make a personal website...
+
+I had the whole summer to do that but instead I played Elden Ring, did research work, and procrastinated on both by watching copious amounts of YouTube.
+
 ## About Me
 
 I am an Undergraduate Electrical and Computer Engineer with a minor in Game Design at Northeastern University in Boston, and am part of the class of 2024.
